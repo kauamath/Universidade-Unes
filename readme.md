@@ -4,8 +4,10 @@
 Projeto criado para reforçar o conhecimento em HTML5
 </p>
 
-<img src="./imagens/site-img.png" alt="imgagem site"><br>
+<h3 align="center"> <b>Página principal</b></h3>
+<img src="./imagens/site-img.png" alt="imgagem site">
 
+<h3 align="center"> <b>Formulário</b></h3>
 <img src="./imagens/form-img.png" alt="formulario site">
 
 ## 🚀 Tecnologias
