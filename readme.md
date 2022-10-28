@@ -23,13 +23,13 @@ Mini projeto de site de uma universidade com três landing pages, a primeira é 
 
 ## 👨🏻‍💻 Deploy
 
-<a target="_blank" href="https://unes-universidade-kauamath.netlify.app/">CLICK PARA ACESSAR!</a>
+<a target="_blank" href="https://unes-universidade-kauamath.netlify.app/"><b>CLICK PARA ACESSAR!</b></a>
 
 ## 🙋🏻 Autor
 
-<a href="https://www.linkedin.com/in/kauã-medeiros-493403228/" target="_blank">Kauã Medeiros</a>
+<a href="https://www.linkedin.com/in/kauã-medeiros-493403228/" target="_blank"><b>Kauã Medeiros</b></a>
 
-## &nbsp;<i>Onde me encontrar:</i> <br>
+## 🌎<i>Onde me encontrar:</i> <br>
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/kauã-medeiros-493403228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href = "mailto:contato.kauamedeiros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/k.matheus/" target="_blank"><img src="https://user-images.githubusercontent.com/75697499/179569889-2a993690-1c1d-4c3c-a89e-775aee94a742.svg"></a>
