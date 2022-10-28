@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Mini projeto de site de uma universidade com três landing pages, a primeira é a <b>página inicial</b>, a segunda uma página de <b>quem somos</b> e a terceira é uma paágina com <b>formulário</b> para contato.
+Mini projeto de site de uma universidade com três landing pages, a primeira é a <b>página inicial</b>, a segunda uma página de <b>quem somos</b> e a terceira é uma página com <b>formulário</b> para contato.
 
 
 ## 👨🏻‍💻 Deploy
