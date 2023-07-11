@@ -25,10 +25,6 @@ Mini projeto de site de uma universidade com três landing pages, a primeira é 
 
 <a target="_blank" href="https://unes-universidade-kauamath.netlify.app/"><b>CLICK PARA ACESSAR!</b></a>
 
-## 🙋🏻 Autor
-
-<a href="https://www.linkedin.com/in/kauã-medeiros-493403228/" target="_blank"><b>Kauã Medeiros</b></a>
-
 ## 🌎<i>Onde me encontrar:</i> <br>
 
 <div style="display: inline_block">
